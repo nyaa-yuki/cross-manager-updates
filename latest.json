@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "4.3-013.7",
+  "version": "4.3-013.8",
   "published_at": "2026-08-15",
-  "summary": "新着版通知の安全な確認基盤を追加しました。",
+  "summary": "公開マニフェストによる新着版確認を有効化しました。",
   "release_url": "https://github.com/nyaa-yuki/cross-manager-updates",
-  "sha256": "90c342f1286f2ffdbcf24099117f678dadd96195c30e765cbee9327d8009fed3"
+  "sha256": "c93e53cb2aab2ca837efef1f3de3b3ac6c34496d934f2560199e68e5afd8d849"
 }
