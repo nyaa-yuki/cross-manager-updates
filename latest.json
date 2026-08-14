@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "4.3-013.8",
+  "version": "4.3-013.9",
   "published_at": "2026-08-15",
-  "summary": "公開マニフェストによる新着版確認を有効化しました。",
+  "summary": "優待情報取得のポイント円換算と別行株数条件の解析を補強しました。",
   "release_url": "https://github.com/nyaa-yuki/cross-manager-updates",
-  "sha256": "c93e53cb2aab2ca837efef1f3de3b3ac6c34496d934f2560199e68e5afd8d849"
+  "sha256": "6436f126ada999303b2a1aad83e0cdef0f5d4610ab0f21ef0450b7419b34587b"
 }
