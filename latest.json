@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "4.3-013.9",
+  "version": "4.3-013.10",
   "published_at": "2026-08-15",
-  "summary": "優待情報取得のポイント円換算と別行株数条件の解析を補強しました。",
+  "summary": "公式優待URL未登録銘柄の絞り込みとURL安全検証を追加しました。",
   "release_url": "https://github.com/nyaa-yuki/cross-manager-updates",
-  "sha256": "6436f126ada999303b2a1aad83e0cdef0f5d4610ab0f21ef0450b7419b34587b"
+  "sha256": "4323622565c102d3bc75aed413af14cfea431ba7b4cfa3a246cb590dfaeb3c47"
 }
