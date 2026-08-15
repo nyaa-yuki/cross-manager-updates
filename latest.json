@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "4.3-013.11",
+  "version": "4.3-013.12",
   "published_at": "2026-08-15",
-  "summary": "実運用銘柄の確認済み公式優待URL候補を登録支援へ追加しました。",
+  "summary": "空・未参照のプレースホルダーを整理し、未使用ファイルの構成監査を追加しました。",
   "release_url": "https://github.com/nyaa-yuki/cross-manager-updates",
-  "sha256": "d460301afb65002a1ee9ca5f65fa2a10529e7827b0b5d2fe67c10ff4f96b1d0f"
+  "sha256": "a1f789d4ab896d8a226ff80ea917ebb676c5f3d958d6b1ef57c0af7395ce1b6d"
 }
