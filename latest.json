@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "4.3-013.12",
-  "published_at": "2026-08-15",
-  "summary": "空・未参照のプレースホルダーを整理し、未使用ファイルの構成監査を追加しました。",
+  "version": "4.3-013.13",
+  "published_at": "2026-08-19",
+  "summary": "SBI証券の配当関連キャッシュフロー概算、BOT設計方針、実発注を無効にした注文支援安全基盤を追加しました。",
   "release_url": "https://github.com/nyaa-yuki/cross-manager-updates",
-  "sha256": "1373edfb0bb6247b45cf317b594a442b0cf1cbb74616c61576c2aa3dce57fb23"
+  "sha256": "b5deeb85a21b5e78f4001fee8d047cf132bf0e572f542cb8f60caaa23f05fdcd"
 }
